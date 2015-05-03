@@ -6,4 +6,5 @@ In this project, I finished clustering and MST construction. Later process is in
 And the final animation is in https://github.com/freegyp/iOSStrokeAnimation
 
 The following is the original image being processed in this project.
+
 ![alt tag](https://raw.github.com/freegyp/Line-Process-Detail/master/line_process_detail/img-7.png)
