@@ -3,4 +3,6 @@ I implemented the paper https://disney-animation.s3.amazonaws.com/uploads/produc
 
 In this project, I finished clustering and MST construction. Later process is in https://github.com/freegyp/Existing-Tree-Fixing
 
+And the final animation is in https://github.com/freegyp/iOSStrokeAnimation
+
 ![alt tag](https://raw.github.com/freegyp/Line-Process-Detail/master/line_process_detail/img-7.png)
